@@ -8,3 +8,6 @@ Labor force characteristics (employment, unemployment): https://www150.statcan.g
 Inflation rate: https://www.statista.com/statistics/271247/inflation-rate-in-canada/
 Wages: https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1410006401
 money supply (M1, M2, M3): https://research.stlouisfed.org/useraccount/datalists/229031
+
+
+

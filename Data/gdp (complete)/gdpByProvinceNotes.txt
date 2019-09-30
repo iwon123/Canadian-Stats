@@ -1,0 +1,5 @@
+headnotes: 
+Gross domestic product (GDP) at basic prices, by industry, provinces and territories, percentage share c 1 2 3 4
+Annual
+Table: 36-10-0400-01 (formerly CANSIM 379-0028)
+Geography: Province or territory
