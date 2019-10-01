@@ -1,0 +1,22 @@
+headnotes: 
+Household spending, Canada, regions and provinces c 1 2 3 4
+Annual
+Table: 11-10-0222-01 (formerly CANSIM 203-0021)
+Geography: Canada
+
+
+Corrections:	
+Date:	Note:
+2017-11-09T05:00:00Z	On November 9, 2017, the data from 2014 were corrected for the series "Makeup, skin care, manicure and fragrance products". As a result, the data for the series "Personal care products", "Personal care", "Total current consumption" and "Total expenditure" may have also changed.
+	
+Footnotes:	
+1	For more information about survey methodology, data quality, variable definitions and data products, see the Survey of Household Spending User Guide (catalogue number 62F0026MIE) available free on the Statistics Canada website: Household expenditures research papers series.
+2	For 2012, household expenditure data were also collected in the three territories. The data are available in table 11-10-0126-01 (formerly CANSIM table 203-0030). However, caution should be used when comparing provincial and territorial data since the collection method was different in the territories.
+3	The Survey of Household Spending uses survey weights which take into account population projections from the 2011 Census.
+4	To ensure data quality, suppression of expenditure estimates is based on the coefficient of variation (CV). Expenditures that have a CV greater than or equal to 35% are suppressed as they are too unreliable to be published.
+5	Canada-level statistics include the 10 provinces only.
+6	Starting in 2014, expenditure estimates for provincial health insurance premiums are included with income taxes. These estimates are calculated using information from personal income tax data (T1). Previously, provincial health insurance premiums were included with health care expenditures.
+	
+How to cite: Statistics Canada. Table 11-10-0222-01 Household spending, Canada, regions and provinces	
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110022201	
+DOI:  https://doi.org/10.25318/1110022201-eng	
