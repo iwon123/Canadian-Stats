@@ -1,6 +1,0 @@
-definition: 
-M1 = coins and currency in circulation + checkable (demand) deposit + traveler's checks.
-M2 = M1 + savings deposits + money market funds + certificates of deposit + other time deposits.
-M3: M2 (gross) plus bank non-personal term deposits and foreign-currency deposits of residents; less interbank deposits; plus continuity adjustments
-
-source: https://philschatz.com/economics-book/contents/m48763.html
